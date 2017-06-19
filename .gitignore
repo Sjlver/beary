@@ -1,0 +1,4 @@
+*.~
+main.pdf
+.build/
+extern-styles/
